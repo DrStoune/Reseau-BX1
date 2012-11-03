@@ -1,0 +1,4 @@
+Lorsque quelqu'un se connecte à nous, il faut verifier que nous sommes bien connecté à lui.
+Pour relancer la connexion, sinon trop long de reconnecter a chaque commande
+
+Ou au moins verifier a chaque envoi si tous nos contacts sont en ligne.
